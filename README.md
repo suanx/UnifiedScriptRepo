@@ -17,7 +17,7 @@ How to Use:
 -----------
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/UnifiedScriptRepo.git
+   git clone https://github.com/suanx/UnifiedScriptRepo.git
    cd UnifiedScriptRepo
 
 2. Make the script executable:
