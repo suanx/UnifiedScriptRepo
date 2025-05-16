@@ -61,5 +61,5 @@ MIT License
 Contact:
 --------
 
-Your Name - sks.awsdev"gmail.com  
+email-id - sks.awsdev@gmail.com  
 Project Link: https://github.com/suanx/UnifiedScriptRepo
